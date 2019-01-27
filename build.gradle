@@ -1,4 +1,4 @@
-plugin {
+plugins {
     id "jaci.gradle.EmbeddedTools" version "2018.12.18" apply true
 }
 
